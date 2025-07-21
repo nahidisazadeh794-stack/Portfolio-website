@@ -22,3 +22,16 @@
 
 * Added an event listener to handle navigation clicks for scrolling behavior.
 
+# Projects screenshorts
+
+## Home page
+![Home page screenshort](screenshorts/home_page.png.png)
+
+## Features page
+![Features page screenshort](screenshorts/features_page.png.png)
+
+## Skills page
+![Skills page screenshort](screenshorts/skills_page.png.png)
+
+## About page
+![About page screenshort](screenshorts/about_page.png.png)
